@@ -2,7 +2,6 @@ wandb/
 wandb/*
 __pycache__/
 __pycache__/*
-*.ipynb
 *.ckpt
 *.pt
 !SELFIES-VAE-state-dict.pt
@@ -13,3 +12,4 @@ mujoco_vids/
 mujoco_vids/*
 lolbo.egg-info
 *train-zs.csv
+.ipynb_checkpoints/
